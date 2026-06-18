@@ -247,7 +247,7 @@ sql/dw_covid.sql
 ## 3. Executar Dashboard
 
 ```bash
-streamlit run app_dw.py
+streamlit run streamlit_dw.py
 ```
 
 ---
