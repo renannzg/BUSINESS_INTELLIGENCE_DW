@@ -1,4 +1,4 @@
-````markdown
+
 # Projeto C3 - Business Intelligence
 
 ## Integração de Data Warehouse, ETL e Dashboard Analítico para Dados de COVID-19
