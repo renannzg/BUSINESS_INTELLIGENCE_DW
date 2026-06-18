@@ -1,0 +1,6 @@
+```text
+   *.pbix
+   *.db
+   *.sqlite
+   *.csv
+   *.xlsx
