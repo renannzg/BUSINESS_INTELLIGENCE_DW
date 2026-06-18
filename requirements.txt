@@ -1,0 +1,8 @@
+```text
+streamlit>=1.40.0
+pandas>=2.2.0
+matplotlib>=3.9.0
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.9
+numpy>=2.0.0
+```
